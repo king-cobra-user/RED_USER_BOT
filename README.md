@@ -12,7 +12,7 @@
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only official HellBot Userbot made by #Team_HellBoy.
+This is the one and only official HellBot Userbot made by #Team_redboy.
 
 Don't forget to star this repo if you liked it.
 
@@ -54,7 +54,7 @@ notifications in Update Channel.
 
 <a href="https://t.me/FIGRO_USER_BOT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/HellBot_Official_Chat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FIGRO_USER_BOT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </details>
 
@@ -92,7 +92,7 @@ How To Deploy RED-BOT.
 
 <h4 align="center">To host REDBOT locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/king-cobra-user/RED_USER_BOT">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h2 align="center"> <a href="https://"https://github.com/king-cobra-user/RED_USER_BOT">⚡ VΛDΣЯ REPO ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -114,7 +114,7 @@ How To Deploy RED-BOT.
 
 Copyright (C) 2021 HellBoy-OP
 
-Poject [HellBot](https://github.com/HellBoy-OP/HellBot) is free software: you can redistribute it and/or modify
+Poject [REDBOT](https://github.com/king-cobra-user/RED_USER_BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
