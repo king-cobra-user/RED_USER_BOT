@@ -8,7 +8,7 @@
 
 <h1 align="center">⚡ †hê 𝚁𝙴𝙳𝙱𝙾𝚃 ⚡</h1>
 
-<h4 align="center">Legendary AF HellBot</h4>
+<h4 align="center">Legendary AF REDbot</h4>
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
