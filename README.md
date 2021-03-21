@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![HellBot logo](https://telegra.ph/file/7c1f4bda80cca585d5288.jpg)](https://t.me/FIGRO_USER_BOT)
+[![REDBOT logo](https://telegra.ph/file/7c1f4bda80cca585d5288.jpg)](https://t.me/FIGRO_USER_BOT)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -90,9 +90,9 @@ How To Deploy RED-BOT.
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
+<h4 align="center">To host REDBOT locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/king-cobra-user/RED_USER_BOT">⚡ VΛDΣЯ REPO ⚡</a></h2>
 
 ## Mandatory Vars
 
