@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![REDBOT logo](https://telegra.ph/file/7c1f4bda80cca585d5288.jpg)](https://t.me/FIGRO_USER_BOT)
+[![REDBOT logo](https://telegra.ph/file/7f41b2221814b38dce30a.jpg)](https://t.me/FIGRO_USER_BOT)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
