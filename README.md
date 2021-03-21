@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/HellBoy-OP/Hellbot)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/kraken_the_badass)
 
-<h1 align="center">⚡ †hê Hêllẞø† ⚡</h1>
+<h1 align="center">⚡ †hê 𝚁𝙴𝙳𝙱𝙾𝚃 ⚡</h1>
 
 <h4 align="center">Legendary AF HellBot</h4>
 
